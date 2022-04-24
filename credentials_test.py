@@ -1,6 +1,7 @@
 import unittest  # Importing the unittest module
 from credentials import Credentials  # Importing the Credentials  class
 
+
 class TestCredentials(unittest.TestCase):
     """
     class for test that defines test cases for the credentials module
@@ -100,4 +101,3 @@ class TestCredentials(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-
