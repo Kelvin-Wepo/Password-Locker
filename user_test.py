@@ -1,7 +1,6 @@
 import unittest
 
 from httplib2 import Credentials
-
 from user import User
 
 
@@ -32,7 +31,7 @@ class TestUser(unittest.TestCase):
         to test if object is properly initialised
         """
 
-        self.assertEqual(self.new_user.user_name, "Kwepo")
+        self.assertEqual(self.new_user.user_name, "kwepo")
         self.assertEqual(self.new_user.user_password, "7710")
 
     def test_log_in(self):
