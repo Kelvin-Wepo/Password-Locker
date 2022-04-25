@@ -331,7 +331,7 @@ def main():
             Exiting password locker
             """
             print("\n")
-            print("Bye, have a good day .....")
+            print("Bye, have a Nice day .....")
 
             break
 
