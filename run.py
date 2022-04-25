@@ -337,7 +337,7 @@ def main():
 
         else:
             print("\n")
-            print(f""" Invalid entry please check amd try again. what is the the {short_code}? 
+            print(f""" Invalid entry please check and try again. what is the the {short_code}? 
             please use the short codes """)
             print("\n")
 
