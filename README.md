@@ -18,7 +18,7 @@ To access this project on your local files,clone the repo using these steps:
 
 2.Use this command to clone $ git clone https://github.com/Kelvin-Wepo/Password-Locker
 
-3.This will clone the repository into your local folder. Then cd Locker
+3.This will clone the repository into your local folder. Then cd Password Locker
 
 4.Run the command python3 user_test.py in the terminal to test user account code.
 
