@@ -18,7 +18,7 @@ class TestUser(unittest.TestCase):
         """
 
         # create a user object
-        self.new_user = User("kwepo", "7710")
+        self.new_user = User("Kwepo", "7710")
 
     def tearDown(self):
         """
